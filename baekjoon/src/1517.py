@@ -11,6 +11,7 @@ for k in range(0, i):
         break
 print(cnt)
 '''
+
 def merge(left, right):
     global cnt
     i, j, temp = 0, 0, []
